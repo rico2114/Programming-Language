@@ -1,0 +1,8 @@
+2: Return []
+4: Continue [loopName]
+8: Break [loopName]
+16: defintion [ClassType $variable value]
+32: Condition check []
+64: Execute [Class function (${toVariable / none}) (parameters)]
+128: Function definition [name] // [ReturnType name]
+

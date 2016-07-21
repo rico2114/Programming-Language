@@ -1,0 +1,5 @@
+function main() {
+	Integer edad = 18;
+	String texto = "Mi_edad_es:".append(edad).append("soy_adulto_ya").append("wiii");
+	Console.print(texto);
+}

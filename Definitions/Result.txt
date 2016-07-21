@@ -1,0 +1,7 @@
+Class localClass;
+
+	128: Main
+	16: Integer edad 18
+	16: String texto "Mi edad es"
+	64: String append texto $edad
+	64: System print none texto
